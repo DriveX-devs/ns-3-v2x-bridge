@@ -39,6 +39,10 @@ By default the ns-3 clock is **managed by the external simulator**: simulation t
 
 The V2X bridge currently simulates the following radio configuration: band n78 (3.5 GHz), 60 MHz, numerology 1, TDD pattern `DL|S|UL|UL|DL|DL|S|UL|UL|DL|`, IPv4 only. However, it can be extended by editing the file `v2x-bridge.cc`.
 
+## Used libraries
+
+To manage the parsing of JSON messages, this project uses the _nlohmann json_ librar, available [here](https://github.com/nlohmann/json), and included as-is in this repository in the _json.hpp_ file.
+This library is *not* licensed under the same license as the rest of the repository, and it retains its MIT license (see [here](https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)).
 
 ## Disclaimer
 
