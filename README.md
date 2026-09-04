@@ -41,7 +41,7 @@ The V2X bridge currently simulates the following radio configuration: band n78 (
 
 ## Used libraries
 
-To manage the parsing of JSON messages, this project uses the _nlohmann json_ librar, available [here](https://github.com/nlohmann/json), and included as-is in this repository in the _json.hpp_ file.
+To manage the parsing of JSON messages, this project uses the _nlohmann json_ library, available [here](https://github.com/nlohmann/json), and included as-is in this repository in the _json.hpp_ file.
 This library is *not* licensed under the same license as the rest of the repository, and it retains its MIT license (see [here](https://github.com/nlohmann/json/blob/develop/LICENSE.MIT)).
 
 ## Disclaimer
