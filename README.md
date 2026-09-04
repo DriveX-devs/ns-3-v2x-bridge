@@ -46,4 +46,4 @@ This library is *not* licensed under the same license as the rest of the reposit
 
 ## Disclaimer
 
-Code development has been assisted by Claude Code with Claude Fable 5 and Claude Opus 5.
+Code development and extended documentation drafting (DOCS.md) have been assisted by Claude Code with Claude Fable 5 and Claude Opus 5.
